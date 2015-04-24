@@ -13,7 +13,7 @@ public class AlgNewm {
 
 	public HashSet<HashSet<String>> executa(Graf G, Integer percentatge) {
 		return null;
-		
+		//Prova de canvis 
 		
 	}
 	

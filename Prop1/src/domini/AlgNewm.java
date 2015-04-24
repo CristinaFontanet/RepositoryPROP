@@ -3,18 +3,18 @@
  */
 package domini;
 
+import java.util.HashSet;
+
 /**
  * @author Rafa
  *
  */
 public class AlgNewm {
 
-	/**
-	 * @param args
-	 */
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+	public HashSet<HashSet<String>> executa(Graf G, Integer percentatge) {
+		return null;
+		
+		
 	}
 
 }

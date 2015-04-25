@@ -19,7 +19,7 @@ public class AlgNewm {
 	
 	public HashSet<HashSet<String>> executa_num(Graf G, Integer numComunidades) {
 		return null;
-		
+		// Altre prova de a veure que passa
 		
 	}
 	
